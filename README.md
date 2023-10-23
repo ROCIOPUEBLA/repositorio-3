@@ -3,3 +3,5 @@
 # probando mas y mas
 # probando de neuvo y mas y mas
 # otro commit mas y mejor :)
+
+Este commit es para oficializar nuestra version **1.0.0**
