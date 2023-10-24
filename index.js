@@ -1,1 +1,1 @@
-console.log("estas en el curso de jon mircha")
+console.log("aprendiendo git")
